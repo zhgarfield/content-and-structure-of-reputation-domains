@@ -2,9 +2,9 @@
 
 Preprint manuscript of the publication *The content and structure of reputation domains across human societies: a view from the evolutionary social sciences* by Zachary H. Garfield<sup>1ª</sup>, Ryan Schacht<sup>2</sup>, Emily R. Post<sup>3</sup>, Dominique Ingram<sup>3</sup>, Andrea Uehling<sup>3</sup>, and Shane J. Macfarlan<sup>3ª</sup>.
 
-<sup>1</sup> Institute for Advanced Study in Toulouse, Université de Toulouse 1 Capitole, Toulouse, France 
-<sup>2</sup> Department of Anthropology, East Carolina University, Greenville, NC, USA 
-<sup>3</sup> Department of Anthropology, University of Utah, Salt Lake City, UT, USA.
+<sup>1</sup> Institute for Advanced Study in Toulouse, Université de Toulouse 1 Capitole, Toulouse, France  
+<sup>2</sup> Department of Anthropology, East Carolina University, Greenville, NC, USA  
+<sup>3</sup> Department of Anthropology, University of Utah, Salt Lake City, UT, USA  
 
 ªCorresponding authors
 
